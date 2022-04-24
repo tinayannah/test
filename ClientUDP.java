@@ -7,7 +7,8 @@ import java.io.*;
 public class ClientUDP{
 
     public static void main(String[] args) {
-
+        String mod;
+//modification de code avec ce commentaire
         BufferedReader stdin; //input du clavier
         String sendString; //string à envoyer
         byte[] sendBytes; //octets à envoyer
